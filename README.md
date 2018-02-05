@@ -1,12 +1,12 @@
-# apt-get install sysadmin
+# pip install odoo-dev
 
-  Description du poste : Ingenieur systeme
+  Job description : Odoo/Python developper
 
-  CDI plein temps
+  Full time
 
-  Localisations : Londres, Luxembourg, Nanterre, Dublin  (dans l'ordre des préférences)
+  Location : Casablanca, Morocco
 
-# *Vous* :
+# *You* :
 
 Master dans l'art du contexte switching vous n'avez pas peur de faire deux choses à la fois sans rien oublier.
 
@@ -15,7 +15,7 @@ Autonome, vous avez un don pour la communication écrite et Orale et êtes capab
 Directement rattaché au CTO, vous serez en charge de la maintenance des serveurs et cluster de nos clients, mais également du design de nouvelles plateformes.
 
 
-# *Compétences humaines et techniques souhaitées* :
+# *Human and Technical skills expected* :
 
 Vous savez combler les vides, et votre surnom au college était "le caméléon".
 
